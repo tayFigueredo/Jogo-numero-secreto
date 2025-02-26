@@ -20,5 +20,5 @@
 
 # Autor
 
-| [<img loading="lazy" src="Image2.jpeg</sub>](https://github.com/tayFigueredo) |   |
+| <img src="Image2.jpeg" alt="autor" width="700" height="1000">(https://github.com/tayFigueredo) |   |
 | :---: | :---: | :---: |
